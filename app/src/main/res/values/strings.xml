@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete_bought">Delete Bought</string>
+    <string name="undo">Undo</string>
+    <string name="item_name">Item Name</string>
+    <string name="bought">Bought</string>
+    <string name="description">Description</string>
+    <string name="category">Category:</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="insert_description_here">Insert Description Here</string>
+    <string name="name">Name</string>
+    <string name="dollar_sign">– $</string>
+    <string name="edit">Edit</string>
+    <string name="del">Del</string>
+    <string-array name="categories">
+        <item>Food/Drink</item>
+        <item>Supplies</item>
+        <item>Technology</item>
+        <item>Sport</item>
+        <item>Other</item>
+    </string-array>
+</resources>

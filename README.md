@@ -12,7 +12,7 @@ A shopping list Android app built with Kotlin as a class project for AIT-Budapes
     - status: whether the item has been bought yet
 - Removing items in three ways: one-by one, all items, all items marked as bought.
 - Editing item attributes.
-- Database/persistence data storage using [Room](https://developer.android.com/training/data-storage/room/index.html):
+- Database/persistence data storage using [Room](https://developer.android.com/training/data-storage/room/index.html).
 - Architecture:
     - SplashActivity
     - ListActivity
